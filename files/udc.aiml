@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>*</pattern>
+    <template>Buen dia gracias por escribir a importadora japón.😊</template>
+  </category>
+<category>
+    <pattern>¿Quiero saber Precios </pattern>
+    <template>Con mucho gusto me puedes indicar que necesitas?😃
+<ul>
+    <li>kn95</li>
+    <li>mascarillas quirurgicas</li>
+    <li>lentes protectores</li>
+    <li>caretas protectoras</li>
+    <li>alcohol gel</li>
+</ul></template>
+</category>
+<category>
+    <pattern></pattern>
+    <template></template>
+</category>
+</aiml>
